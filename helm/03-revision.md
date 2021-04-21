@@ -43,9 +43,9 @@ Verify new `Revision`:
 
 Verify new `Route` and new `Revision` from Console:
 
-<img src="../../assets/developing-on-openshift/helm/my-chart-helm-chart-route.png" width="800" />
+<img src="https://github.com/avishayx/ocp-demo-session/blob/main/assets/developing-on-openshift/helm/my-chart-helm-chart-route.png" width="800" />
 
-<img src="../../assets/developing-on-openshift/helm/my-chart-new-revision.png" width="800" />
+<img src="https://github.com/avishayx/ocp-demo-session/blob/main/assets/developing-on-openshift/helm/my-chart-new-revision.png" width="800" />
 
 
 ## Upgrade and Rollback

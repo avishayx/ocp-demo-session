@@ -12,7 +12,7 @@ The CLI is the entry point for any interaction with Helm 3 subsystem. In additio
 
 When a user instructs the Helm CLI to install a Helm Chart, the information about the Helm Chart is fetched from the repository, rendered on the client and then applied to Kubernetes while a record of this installation is created within the namespace (which is known as a Release).
 
-![Helm on OpenShift](../../assets/developing-on-openshift/helm/helm-diagram.png)
+![Helm on OpenShift](https://github.com/avishayx/ocp-demo-session/blob/main/assets/developing-on-openshift/helm/helm-diagram.png)
 
 
 ## Logging in to the Cluster

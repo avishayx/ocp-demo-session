@@ -2,7 +2,7 @@
 
 Learn how to use the [Helm](https://helm.sh/), a package manager that helps you managing and deploying applications on OpenShift.
 
-![Logo](../../assets/developing-on-openshift/helm/logo.png)
+![Logo](https://github.com/avishayx/ocp-demo-session/blob/main/assets/developing-on-openshift/helm/logo.png)
 
 [Helm](https:/helm.sh/) is a package manager for Kubernetes which helps users create templated packages called Helm Charts to include all Kubernetes resources that are required to deploy a particular application.  Helm then assists with installing the Helm Chart on Kubernetes, and afterwards it can upgrade or rollback the installed package when new versions are available. 
 
