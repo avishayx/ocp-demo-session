@@ -2,11 +2,11 @@ To verify a successful deployment for our application, head back out to the web 
 
 Click on the Topology tab on the left side of the web console. You should see something similar to what is shown in the screenshot below:
 
-![Web Console Deployed](../../assets/middleware/pipelines/application-deployed.png)
+![Web Console Deployed](https://github.com/avishayx/ocp-demo-session/blob/main/assets/middleware/pipelines/application-deployed.png)
 
 The Topology view of the OpenShift web console helps to show what is deployed out to your OpenShift project visually. As mentioned earlier, the dark blue lining around the _ui_ circle means that a container has started up and running the _api_ application. By clicking on the arrow icon as shown below, you can open the URL for _ui_ in a new tab and see the application running.
 
-![Web Console URL Icon](../../assets/middleware/pipelines/url-icon.png)
+![Web Console URL Icon](https://github.com/avishayx/ocp-demo-session/blob/main/assets/middleware/pipelines/url-icon.png)
 
 After clicking on the icon, you should see the application running in a new tab.
 

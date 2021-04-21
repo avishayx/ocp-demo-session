@@ -2,7 +2,7 @@ A `Pipeline` defines an ordered series of `Tasks` that you want to execute along
 
 Below is an example definition of a `Pipeline`, created using the following diagram:
 
-![Web Console Developer](../../assets/middleware/pipelines/pipeline-diagram.png)
+![Web Console Developer](https://github.com/avishayx/ocp-demo-session/blob/main/assets/middleware/pipelines/pipeline-diagram.png)
 
 Below is a YAML file that represents the above pipeline:
 

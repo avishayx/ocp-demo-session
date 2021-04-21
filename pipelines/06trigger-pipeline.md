@@ -28,6 +28,6 @@ After a few minutes, the pipeline should finish successfully!
 
 To view the `PipelineRun` visually, visit the Pipelines section of the developer perspective. From here, you can see the details of our `Pipeline`, including the YAML file we've applied, the `PipelineRun`, input custom `params`, and more:
 
-![Web Console Pipelines](../../assets/middleware/pipelines/web-console-developer.png)
+![Web Console Pipelines](https://github.com/avishayx/ocp-demo-session/blob/main/assets/middleware/pipelines/web-console-developer.png)
 
 Congrats! Your `Pipeline` has successfully ran, and the final step will provide instructions on how to access the deployed image.
