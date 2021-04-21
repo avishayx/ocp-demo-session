@@ -21,13 +21,13 @@ In the _Administrator_ perspective of the web console, navigate to Operators →
 
 Use the _Filter by keyword_ box to search for `OpenShift Pipelines Operator` in the catalog. Click the _OpenShift Pipelines Operator_ tile.
 
-![Web Console Hub](../../assets/middleware/pipelines/web-console-hub.png)
+![Web Console Hub](https://github.com/avishayx/ocp-demo-session/blob/main/assets/middleware/pipelines/web-console-hub.png)
 
 Read the brief description of the Operator on the _OpenShift Pipelines Operator_ page. Click _Install_.
 
 Select _All namespaces on the cluster (default)_ for installation mode & _Automatic_ for the approval strategy. Click Subscribe!
 
-![Web Console Login](../../assets/middleware/pipelines/web-console-settings.png)
+![Web Console Login](https://github.com/avishayx/ocp-demo-session/blob/main/assets/middleware/pipelines/web-console-settings.png)
 
 Be sure to verify that the OpenShift Pipelines Operator has installed through the Operators → Installed Operators page.
 
