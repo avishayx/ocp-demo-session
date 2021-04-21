@@ -15,7 +15,7 @@ You can install OpenShift Pipelines using the Operator listed in the OpenShift C
 
 Firstly, switch to the _Console_ and login to the OpenShift web console using the same credentials you used above.
 
-![Web Console Login](../../assets/middleware/pipelines/web-console-login.png)
+![Web Console Login](ocp-demo-session/assets/middleware/pipelines/web-console-login.png)
 
 In the _Administrator_ perspective of the web console, navigate to Operators → OperatorHub. You can see the list of available operators for OpenShift provided by Red Hat as well as a community of partners and open-source projects.
 
