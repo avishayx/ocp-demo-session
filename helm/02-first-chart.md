@@ -71,7 +71,7 @@ This will install NGINX like in previous chapter, and we can follow installation
 
 `oc get pods`{{execute}}
 
-<img src="../../assets/developing-on-openshift/helm/my-chart-helm-chart.png" width="800" />
+<img src="https://github.com/avishayx/ocp-demo-session/blob/main/assets/developing-on-openshift/helm/my-chart-helm-chart.png" width="800" />
 
 Review installed revision:
 
